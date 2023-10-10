@@ -1,5 +1,6 @@
 # CertifiedCoffeeCourses
 ### Hosted Link: https://divyanshrajpoot9.github.io/CertifiedCoffeeCourses/
+### Media Query:
 A media query in web development is a CSS technique used to apply styles to a webpage based on the characteristics of the device or browser viewing it. It allows developers to create responsive designs that adapt to various screen sizes, resolutions, and device capabilities.
 
 Media queries use the `@media` rule in CSS to define a set of styles that will apply when certain conditions are met. These conditions are based on features like screen width, height, orientation, resolution, and more.
